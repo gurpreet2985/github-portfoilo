@@ -707,4 +707,17 @@ h1.display-3.mb-3.pfimg img {
     padding: 40px 0;
 }
 
+@media (max-width: 600px) {
+.hero-img {
+    margin: initial;
+}
 
+.container-fluid.bg-dark.text-white.py-4.foot .d-flex {
+    justify-content: center;
+    display: flex!important;
+}
+.bg-dark {
+    width: 100%;
+    display: inline-table;
+}
+}
