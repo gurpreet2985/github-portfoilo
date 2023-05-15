@@ -713,7 +713,7 @@ h1.display-3.mb-3.pfimg img {
 }
 
 .container-fluid.bg-dark.text-white.py-4.foot .d-flex {
-    justify-content: center;
+    justify-content: center!important;;
     display: flex!important;
 }
 .bg-dark {
